@@ -1,0 +1,6 @@
+artifact_location: file:///D:/MlOps/mlruns/834693431724140770
+creation_time: 1753332050269
+experiment_id: '834693431724140770'
+last_update_time: 1753332050269
+lifecycle_stage: active
+name: score_predictor

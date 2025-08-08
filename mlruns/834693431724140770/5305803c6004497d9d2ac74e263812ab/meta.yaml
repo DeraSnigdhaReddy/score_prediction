@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MlOps/mlruns/834693431724140770/5305803c6004497d9d2ac74e263812ab/artifacts
+end_time: 1753332063892
+entry_point_name: ''
+experiment_id: '834693431724140770'
+lifecycle_stage: active
+run_id: 5305803c6004497d9d2ac74e263812ab
+run_name: first run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753332050711
+status: 3
+tags: []
+user_id: sahit

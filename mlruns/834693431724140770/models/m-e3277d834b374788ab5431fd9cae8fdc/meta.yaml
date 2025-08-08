@@ -1,0 +1,10 @@
+artifact_location: file:///D:/MlOps/mlruns/834693431724140770/models/m-e3277d834b374788ab5431fd9cae8fdc/artifacts
+creation_timestamp: 1753332051031
+experiment_id: '834693431724140770'
+last_updated_timestamp: 1753332063821
+model_id: m-e3277d834b374788ab5431fd9cae8fdc
+model_type: null
+name: score_predictor
+source_run_id: 5305803c6004497d9d2ac74e263812ab
+status: 2
+status_message: null
